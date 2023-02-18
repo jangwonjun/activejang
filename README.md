@@ -1,2 +1,0 @@
-# activejang
-activejang page 
